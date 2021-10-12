@@ -1,5 +1,6 @@
 const val apple = 50
 const val Dozens2 = 12
+
 fun main(args: Array<String>) {
 
     var Dozens = 12
@@ -19,4 +20,6 @@ fun main(args: Array<String>) {
     var remainApple2 = apple % noOfDozens2
     println("Number Of Dezone ? $noOfDozens2")
     println("Remain Number of Apple ? $remainApple2")
+
+    println("Try to get commit")
 }
